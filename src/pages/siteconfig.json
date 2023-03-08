@@ -1,0 +1,12 @@
+{
+  "sitename": "race review",
+  "author": "cece lee",
+  "address": "www.racereview.com",
+  "menu": [
+    { "name": "home", "icon": "HiHome" },
+    { "name": "race", "icon": "GiSteeringWheel" },
+    { "name": "circuit", "icon": "GiCheckeredFlag" },
+    { "name": "driver", "icon": "GiFullMotorcycleHelmet" },
+    { "name": "constructor", "icon": "TfiHeadphoneAlt" }
+  ]
+}

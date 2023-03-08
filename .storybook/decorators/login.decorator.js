@@ -1,4 +1,4 @@
-import { UserProvider } from "../../utils/UserProvider";
+import { UserProvider } from "../../src/utils/UserProvider";
 
 export const DEFAULT_THEME = "light";
 

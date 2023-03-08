@@ -1,4 +1,4 @@
-import "../styles/global.css";
+import "../src/styles/globals.css";
 import * as NextImage from "next/image";
 import { tailwindTheme } from "./decorators/tailwind.decorator";
 import { loginDecorator } from "./decorators/login.decorator";
